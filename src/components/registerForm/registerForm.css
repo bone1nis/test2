@@ -1,0 +1,20 @@
+.authForm {
+    border: 2px solid black;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    border-radius: 5px;
+}
+
+.authFormInput {
+    padding: 4px 8px;
+    border: 2px solid bisque;
+    border-radius: 5px;
+    outline: none;
+}
+
+.authFormBtn {
+    padding: 4px;
+    background-color: bisque;
+}
